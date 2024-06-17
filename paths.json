@@ -1,5 +1,7 @@
 {
   "mappings": [
+    "/content/sparky-template-teo/:/",
+    "/content/sparky-template-teo/configuration:/.helix/config.json",
     "/content/exlm/global/:/",
     "/content/exlm/global/en:/",
     "/content/exlm/global/zh-CN:/zh-hans",
