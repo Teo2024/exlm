@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://51837-exlmconverter-dev.adobeioruntime.net/api/v1/web/main/convert
+    url: https://author-p136111-e1367719.adobeaemcloud.com/bin/franklin.delivery/Teo2024/exlm/main
     type: markup
     suffix: '.md'
